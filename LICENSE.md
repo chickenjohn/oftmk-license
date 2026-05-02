@@ -5,7 +5,9 @@ OFTMK License v1.0
 Non-Commercial Sharing, Third-Party Rights Notice and AI Use Restriction License
 
 生效日期：____年__月__日
+
 发布方 / 创作方：________________
+
 联系方式：________________
 
 
