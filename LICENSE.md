@@ -215,7 +215,7 @@ Non-Commercial Sharing, Third-Party Rights Notice and AI Use Restriction License
 
 也可使用以下超短声明：
 
-#OFTMK v1.2｜仅限非商业使用，禁止商用/训练/微调/蒸馏；不授权第三方 IP，权利人可联系处理。协议见主页/链接。
+#OFTMK v1.0｜仅限非商业使用，禁止商用/训练/微调/蒸馏；不授权第三方 IP，权利人可联系处理。协议见主页/链接。
 
 
 十八、最终说明
