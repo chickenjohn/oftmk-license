@@ -1,11 +1,13 @@
-#OFTMK License v1.0
+# OFTMK License v1.0
 非商业共享与第三方权利声明协议
 
 OFTMK License v1.0
 Non-Commercial Sharing and Third-Party Rights Notice License
 
 生效日期：____年__月__日
+
 发布方 / 创作方：________________
+
 联系方式：________________
 
 一、协议目的
